@@ -1,8 +1,4 @@
-Nice! 🚀 Let’s add a **badges section** at the top to make your README more eye-catching and professional.
 
-Here’s the **final version with badges**:
-
----
 
 # 💻 C++ Programming Daily 🚀
 
