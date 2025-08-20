@@ -34,14 +34,24 @@ It could be a solved DSA problem, an OOP concept implementation, STL exploration
 ## 🔧 Topics I Plan to Cover
 
 Basics (Syntax, Operators, Data Types, I/O)
+
 Control Flow (Conditionals & Loops)
+
 Functions & Recursion
+
 Arrays, Strings & Pointers
+
 OOP: Classes, Inheritance, Polymorphism, Overloading, Friend Functions
+
 Templates (Function & Class)
+
 STL: Vectors, Maps, Sets, Queues, Stacks, Priority Queues
+
 Exception & File Handling
+
 Dynamic Memory Management
+
 DSA: Sorting, Searching, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, Greedy, DP
+
 Mini Projects & Problem-Solving most used languages, contribution graph, streak stats) at the bottom of the README? That makes repos look even more professional.
 
